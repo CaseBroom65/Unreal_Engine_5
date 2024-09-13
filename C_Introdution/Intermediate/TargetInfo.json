@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "C_Introdution",
+			"Path": "..\\Source\\C_Introdution.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "C_IntrodutionEditor",
+			"Path": "..\\Source\\C_IntrodutionEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
