@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unity\\unreal_engine_5\\material_class\\intermediate\\source\\material_class.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unity\\unreal_engine_5\\material_class\\intermediate\\build\\win64\\x64\\material_class\\development\\core\\sharedpch.core.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\unity\\unreal_engine_5\\material_class\\intermediate\\build\\win64\\x64\\unrealgame\\development\\material_class\\definitions.material_class.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
