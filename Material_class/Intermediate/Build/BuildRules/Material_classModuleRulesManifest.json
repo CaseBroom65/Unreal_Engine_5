@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"D:\\unity\\Unreal_Engine_5\\Material_class\\Intermediate\\Source\\Material_class.Build.cs",
+		"D:\\unity\\Unreal_Engine_5\\Material_class\\Intermediate\\Source\\Material_class.Target.cs",
+		"D:\\unity\\Unreal_Engine_5\\Material_class\\Intermediate\\Source\\Material_classClient.Target.cs",
+		"D:\\unity\\Unreal_Engine_5\\Material_class\\Intermediate\\Source\\Material_classEditor.Target.cs",
+		"D:\\unity\\Unreal_Engine_5\\Material_class\\Intermediate\\Source\\Material_classServer.Target.cs"
+	],
+	"EngineVersion": "5.4.4"
+}
